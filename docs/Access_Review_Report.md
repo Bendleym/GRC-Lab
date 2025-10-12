@@ -37,6 +37,6 @@ This report documents results from a mock access review conducted across critica
 | Role | Name | Signature | Date |
 |------|------|------------|------|
 | Reviewer | Bendley Milord | ✅ | Oct 2025 |
-| Security Manager | [Manager Name] | ✅ | Oct 2025 |
+| Security Manager | [Alex Rivera] | ✅ | Oct 2025 |
 
 ---
