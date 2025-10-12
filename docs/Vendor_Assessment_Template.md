@@ -55,9 +55,3 @@ This template is used to assess and document third-party vendor security posture
 | Next Review Date | Apr 2026 |  |  |
 
 ---
-
-✅ **Memory Tip:**  
-say “I built a vendor assessment form modeled after ISO 27001 Annex A.15 — it captures attestations, technical controls, risk ratings, and sign-off for audit evidence.”  
-
----
-
