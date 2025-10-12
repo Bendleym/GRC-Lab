@@ -43,7 +43,8 @@ This project models a real GRC workflow across six documentation layers:
 ## 📊 Screenshots
 | Risk Register | Compliance Matrix | Policy Playbook |
 |----------------|------------------|----------------|
-| ![Risk Register](screenshots/risk_register.png) | ![Compliance Matrix](screenshots/compliance_matrix.png) | ![Policy Playbook](screenshots/policy_playbook.png) |
+|<img width="1339" height="245" alt="risk_register png" src="https://github.com/user-attachments/assets/5149aa40-6729-4023-b44e-3f60b1e3b9d4" />
+  | ![Compliance Matrix](screenshots/compliance_matrix.png) | ![Policy Playbook](screenshots/policy_playbook.png) |
 
 ---
 
