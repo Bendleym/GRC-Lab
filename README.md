@@ -25,3 +25,34 @@ Microsoft Excel, SharePoint (simulated), Vanta (conceptual), PowerShell (access 
 - [Vendor Assessment Template](docs/Vendor_Assessment_Template.md)
 - [Access Review Report](docs/Access_Review_Report.md)
 - [Business Continuity Plan](docs/Business_Continuity_Plan.md)
+
+---
+
+## 🧩 Architecture Overview
+This project models a real GRC workflow across six documentation layers:
+
+1. **Governance:** Policy Playbook (ISO 27001-aligned policies)  
+2. **Risk:** Risk Register scoring likelihood × impact  
+3. **Compliance:** Matrix mapping ISO, SOC 2, and NIST controls  
+4. **Access:** Quarterly user privilege review with remediation tracking  
+5. **Vendor:** Third-party security questionnaire and risk rating  
+6. **Continuity:** BCP defining critical systems, RTO/RPO, and testing cadence  
+
+---
+
+## 📊 Screenshots
+| Risk Register | Compliance Matrix | Policy Playbook |
+|----------------|------------------|----------------|
+| ![Risk Register](screenshots/risk_register.png) | ![Compliance Matrix](screenshots/compliance_matrix.png) | ![Policy Playbook](screenshots/policy_playbook.png) |
+
+---
+
+## 💡 Key Highlights
+- Built an ISO 27001-aligned documentation package demonstrating GRC control structure.  
+- Created realistic risk register, compliance matrix, and vendor/access review templates.  
+- Simulated audit readiness by linking policies, risks, and evidence artifacts.  
+
+---
+
+## 🗣️ Elevator Pitch (for interviews)
+“I built a full GRC lab that mirrors how real organizations prepare for ISO 27001 or SOC 2 audits — including policies, risk scoring, compliance mapping, and vendor/access reviews, all tied together in a structured repo.”
