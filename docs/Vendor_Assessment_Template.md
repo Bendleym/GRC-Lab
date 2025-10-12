@@ -61,4 +61,3 @@ say “I built a vendor assessment form modeled after ISO 27001 Annex A.15 — i
 
 ---
 
-when you finish pasting and committing that, reply **“done w 5”**, and we’ll move to the next piece — the **Access Review Report**.
