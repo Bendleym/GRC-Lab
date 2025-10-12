@@ -59,6 +59,3 @@ This project models a real GRC workflow across six documentation layers:
 - Simulated audit readiness by linking policies, risks, and evidence artifacts.  
 
 ---
-
-## 🗣️ Elevator Pitch (for interviews)
-“I built a full GRC lab that mirrors how real organizations prepare for ISO 27001 or SOC 2 audits — including policies, risk scoring, compliance mapping, and vendor/access reviews, all tied together in a structured repo.”
