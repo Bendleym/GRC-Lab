@@ -18,3 +18,10 @@ Microsoft Excel, SharePoint (simulated), Vanta (conceptual), PowerShell (access 
 - Vendor Assessment and Access Review Reports
 - Business Continuity Plan outline
 
+### 📂 Key Deliverables
+- [Policy Playbook](docs/Policy_Playbook.md)
+- [Risk Register](docs/Risk_Register.csv)
+- [Compliance Matrix](docs/Compliance_Matrix.csv)
+- [Vendor Assessment Template](docs/Vendor_Assessment_Template.md)
+- [Access Review Report](docs/Access_Review_Report.md)
+- [Business Continuity Plan](docs/Business_Continuity_Plan.md)
