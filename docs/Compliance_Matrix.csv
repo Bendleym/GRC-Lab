@@ -1,0 +1,9 @@
+Control ID,Framework,Description,Policy Reference,Implementation Status,Evidence Location,Owner
+A.9.2.3,ISO 27001,User provisioning and deprovisioning,Access Control Policy,Implemented,Access_Review_Report.md,GRC Team
+CC6.1,SOC 2,Logical access security,Access Control Policy,In Progress,Access_Review_Report.md,Security Team
+PR.AC-1,NIST CSF,Identity management and access control,Access Control Policy,Implemented,Access_Review_Report.md,GRC Team
+A.15,ISO 27001,Supplier security requirements,Vendor Risk Management Policy,Implemented,Vendor_Assessment_Template.md,Compliance Team
+CC3.4,SOC 2,Vendor management and risk assessment,Vendor Risk Management Policy,Implemented,Vendor_Assessment_Template.md,Compliance Team
+A.12,ISO 27001,Operations and change management,Change Management Policy,In Progress,Change_Control_Log.txt,IT Admin
+A.16.1,ISO 27001,Incident response and reporting,Incident Response Policy,Implemented,Incident_Response_Logs.txt,SOC Lead
+A.18,ISO 27001,Compliance with legal requirements,Policy Playbook,Implemented,Compliance_Matrix.csv,Compliance Team
