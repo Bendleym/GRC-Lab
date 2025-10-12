@@ -7,7 +7,7 @@ This template is used to assess and document third-party vendor security posture
 ## 1. Vendor Overview
 | Field | Description |
 |-------|--------------|
-| Vendor Name | [Example Vendor Inc.] |
+| Vendor Name | SecureCloud Analytic |
 | Services Provided | Cloud storage & data analytics |
 | Data Accessed | PII, reports, backups |
 | Assessment Date | Oct 2025 |
@@ -51,7 +51,7 @@ This template is used to assess and document third-party vendor security posture
 | Role | Name | Action | Date |
 |------|------|---------|------|
 | Reviewer | Bendley Milord | Completed Assessment | Oct 2025 |
-| Security Manager | [Manager Name] | Approved | Oct 2025 |
+| Security Manager | Alex Rivera | Approved | Oct 2025 |
 | Next Review Date | Apr 2026 |  |  |
 
 ---
