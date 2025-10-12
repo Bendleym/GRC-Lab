@@ -41,12 +41,24 @@ This project models a real GRC workflow across six documentation layers:
 ---
 
 ## 📊 Screenshots
-| Risk Register | Compliance Matrix | Policy Playbook |
-|----------------|------------------|----------------|
-| <img width="1339" height="245" alt="risk_register png" src="https://github.com/user-attachments/assets/5149aa40-6729-4023-b44e-3f60b1e3b9d4" />
-  | <img width="1061" height="316" alt="compliance_matrix png" src="https://github.com/user-attachments/assets/fda22cb3-bd61-4021-b783-fc095cf0806c" />
-  | <img width="922" height="817" alt="policy_playbook png" src="https://github.com/user-attachments/assets/19dbfc72-d95e-446d-a361-5c74aac7bbf3" />
- |
+
+<table>
+  <tr>
+    <td align="center">
+      <img alt="Risk Register" src="https://github.com/user-attachments/assets/5149aa40-6729-4023-b44e-3f60b1e3b9d4" width="420">
+      <br><sub><b>Risk Register</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Compliance Matrix" src="https://github.com/user-attachments/assets/fda22cb3-bd61-4021-b783-fc095cf0806c" width="420">
+      <br><sub><b>Compliance Matrix</b></sub>
+    </td>
+    <td align="center">
+      <img alt="Policy Playbook" src="https://github.com/user-attachments/assets/19dbfc72-d95e-446d-a361-5c74aac7bbf3" width="420">
+      <br><sub><b>Policy Playbook</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
