@@ -61,6 +61,6 @@ Applies to: IT systems, business applications, and facilities supporting company
 | Role | Name | Date | Signature |
 |------|------|------|------------|
 | BCP Coordinator | Bendley Milord | Oct 2025 | ✅ |
-| IT Manager | [Manager Name] | Oct 2025 | ✅ |
+| IT Manager | Jordan Lee | Oct 2025 | ✅ |
 
 ---
