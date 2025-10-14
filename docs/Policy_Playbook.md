@@ -14,7 +14,7 @@ Each policy lists purpose, controls, and sample evidence for audit readiness.
 - Joiner-Mover-Leaver (JML) process  
 - Quarterly access reviews  
 
-**Evidence:** [Access_Review_Report.md]  
+**Evidence:** (https://github.com/Bendleym/GRC-Lab/blob/main/docs/Access_Review_Report.md)  
 **Owner:** Security Manager | **Reviewed:** Oct 2025  
 
 ---
