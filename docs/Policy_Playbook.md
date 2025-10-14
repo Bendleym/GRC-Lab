@@ -53,7 +53,7 @@ Each policy lists purpose, controls, and sample evidence for audit readiness.
 - Annual risk reassessment  
 - Contract security clause verification  
 
-**Evidence:** docs/Vendor_Assessment_Template.md  
+**Evidence:** [docs/Vendor_Assessment_Template.md](https://github.com/Bendleym/GRC-Lab/blob/main/docs/Vendor_Assessment_Template.md)  
 **Owner:** Compliance Analyst | **Reviewed:** Oct 2025  
 
 ---
