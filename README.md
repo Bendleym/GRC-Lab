@@ -1,46 +1,31 @@
-# GRC Policy, Risk & Audit Lab
+# 📊 Vulnerability Risk Workflow Automation Lab (Tenable API + Power Automate)
 
-### Overview
-This lab simulates a Governance, Risk, and Compliance (GRC) environment designed to demonstrate policy creation, risk assessment, vendor management, and audit preparation aligned with ISO 27001 and SOC 2 frameworks.
+## 🔍 Overview
+This lab simulates a vulnerability risk and remediation workflow by integrating Tenable scan results through API and automating remediation tracking using Power Automate. The goal is to model how security and compliance teams operationalize vulnerability data into measurable remediation outcomes and audit evidence.
 
-### Objectives
-- Identify and assess organizational security risks
-- Map controls to frameworks (ISO 27001, SOC 2, NIST CSF)
-- Conduct mock vendor and access reviews
-- Develop audit-ready documentation
+## 🎯 Lab Goals
+- Pull vulnerability scan results via Tenable API
+- Normalize findings into a structured remediation workflow
+- Build severity scoring, escalation logic, and ticket aging metrics
+- Produce remediation SLA visibility and exception justification for risk owners
 
-### Tools Used
-Microsoft Excel, SharePoint (simulated), Vanta (conceptual), PowerShell (access review examples)
+## 🧰 Tools Used
+Tenable API, Power Automate, Microsoft Excel, SharePoint style evidence structure
 
-### Key Deliverables
-- Risk Register and Compliance Matrix
-- Policy and Procedure Documents
-- Vendor Assessment and Access Review Reports
-- Business Continuity Plan outline
+## ⚙️ Workflow Summary
+- Ingested Tenable findings through API into a tracking dataset
+- Implemented severity scoring and prioritization logic
+- Built escalation rules and aging metrics for remediation visibility
+- Created an SLA oriented dashboard for compliance evidence and reporting
+- Modeled exception handling and risk owner justification workflows
 
-### 📂 Key Deliverables
-- [Policy Playbook](docs/Policy_Playbook.md)
-- [Risk Register](docs/Risk_Register.csv)
-- [Compliance Matrix](docs/Compliance_Matrix.csv)
-- [Vendor Assessment Template](docs/Vendor_Assessment_Template.md)
-- [Access Review Report](docs/Access_Review_Report.md)
-- [Business Continuity Plan](docs/Business_Continuity_Plan.md)
+## 📌 Key Outcomes
+- Demonstrated how vulnerability data becomes actionable remediation work
+- Built tracking and reporting aligned to audit evidence needs
+- Strengthened understanding of remediation SLAs, backlog, and risk acceptance
+- Practiced communicating vulnerability prioritization in a governance context
 
----
-
-## 🧩 Architecture Overview
-This project models a real GRC workflow across six documentation layers:
-
-1. **Governance:** Policy Playbook (ISO 27001-aligned policies)  
-2. **Risk:** Risk Register scoring likelihood × impact  
-3. **Compliance:** Matrix mapping ISO, SOC 2, and NIST controls  
-4. **Access:** Quarterly user privilege review with remediation tracking  
-5. **Vendor:** Third-party security questionnaire and risk rating  
-6. **Continuity:** BCP defining critical systems, RTO/RPO, and testing cadence  
-
----
-
-## 📊 Screenshots
+## 📸 Screenshots
 
 **Risk Register**  
 <img alt="Risk Register" src="https://github.com/user-attachments/assets/5149aa40-6729-4023-b44e-3f60b1e3b9d4" width="800">
@@ -50,12 +35,3 @@ This project models a real GRC workflow across six documentation layers:
 
 **Policy Playbook**  
 <img alt="Policy Playbook" src="https://github.com/user-attachments/assets/19dbfc72-d95e-446d-a361-5c74aac7bbf3" width="800">
-
----
-
-## 💡 Key Highlights
-- Built an ISO 27001-aligned documentation package demonstrating GRC control structure.  
-- Created realistic risk register, compliance matrix, and vendor/access review templates.  
-- Simulated audit readiness by linking policies, risks, and evidence artifacts.  
-
----
